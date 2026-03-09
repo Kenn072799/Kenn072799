@@ -76,7 +76,9 @@ Background Workers
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kenn072799&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kenn072799&theme=github-dark"/>
+</p>
 
 ------------------------------------------------------------------------
 
