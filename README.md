@@ -93,8 +93,8 @@ Background Workers
 
 ## 📫 Connect With Me
 
-LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/kenneth-altes-041485147/)
-Portfolio: [YOUR_PORTFOLIO](https://kenneth-altes.vercel.app/)
+LinkedIn: [kenneth-altes-041485147](https://www.linkedin.com/in/kenneth-altes-041485147/)
+Portfolio: [kenneth-altes.vercel.app](https://kenneth-altes.vercel.app/)
 
 ------------------------------------------------------------------------
 
