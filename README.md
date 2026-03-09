@@ -74,11 +74,9 @@ Background Workers
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenn072799&show_icons=true&theme=github_dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenn072799&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kenn072799&theme=github-dark)
 
 ------------------------------------------------------------------------
 
