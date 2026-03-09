@@ -76,9 +76,9 @@ Background Workers
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenn072799&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenn072799&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenn072799&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenn072799&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ------------------------------------------------------------------------
 
