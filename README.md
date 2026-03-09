@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kenneth 👋
 
-<!--
-**Kenn072799/Kenn072799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | AI Enthusiast | ASE at Accenture
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Prompt Helper
+AI-powered tool that improves prompts for AI systems.
+
+Tech:
+React, ASP.NET Core, PostgreSQL
+
+### Uptime Monitor
+Website monitoring system that keeps free-tier services awake.
+
+Tech:
+React, ASP.NET Core, PostgreSQL
+
+## 🧰 Tech Stack
+
+Backend
+- ASP.NET Core
+- Node.js
+- PostgreSQL
+
+Frontend
+- React
+- TailwindCSS
+
+AI
+- Prompt Engineering
+- Groq API
