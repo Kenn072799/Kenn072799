@@ -1,3 +1,7 @@
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Kenn072799/Kenn072799/blob/output/github-contribution-grid-snake.svg)
+
 # 👋 Hi, I'm Kenneth Altes
 
 <p align="center">
