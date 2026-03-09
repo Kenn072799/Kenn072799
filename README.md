@@ -1,102 +1,94 @@
 # 👋 Hi, I'm Kenneth Altes
 
-💻 Associate Software Engineer at Accenture\
-🚀 Backend Developer \| AI Enthusiast \| Full‑Stack Learner\
+💻 **Associate Software Engineer at Accenture**
+🚀 Backend Developer • AI Enthusiast • Full-Stack Learner
 📍 Philippines
 
-I enjoy building **AI-powered tools, developer utilities, and scalable
-backend systems**.\
-Currently exploring **AI engineering, prompt engineering, system
-architecture, and cloud deployment**.
+I build **AI-powered tools, developer utilities, and scalable backend systems**.
+Currently focused on **AI engineering, prompt engineering, system architecture, and cloud development**.
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Prompt Helper
+## 🤖 AI Prompt Helper
 
-An AI-powered application that helps users create better prompts for
-large language models.
+An AI-powered tool that helps users **write better prompts for large language models**.
 
-**Key Features** - Prompt improvement - Prompt scoring - Prompt
-templates - Prompt playground
+**Key Features**
 
-**Tech Stack** React • TailwindCSS • ASP.NET Core • PostgreSQL • Groq
-API
+* Prompt improvement and restructuring
+* Prompt scoring system
+* Prompt templates
+* Prompt playground for testing prompts
 
-------------------------------------------------------------------------
+**Tech Stack**
+React • TailwindCSS • ASP.NET Core • PostgreSQL • Groq API
 
-### 📡 Uptime Monitor / Auto Pinger
+---
 
-A developer monitoring system that keeps free-tier hosted services awake
-and tracks uptime.
+## 📡 Uptime Monitor / Auto Pinger
 
-**Key Features** - Automatic service pinging - Uptime monitoring -
-Response time tracking - Monitoring dashboard - Alert notifications
+A developer monitoring system that **keeps free-tier hosted services awake and tracks uptime**.
 
-**Tech Stack** React • TailwindCSS • ASP.NET Core • PostgreSQL •
-Background Workers
+**Key Features**
 
-------------------------------------------------------------------------
+* Automatic service pinging
+* Uptime monitoring
+* Response time tracking
+* Monitoring dashboard
+* Alert notifications
 
-## 🧰 Tech Stack
+**Tech Stack**
+React • TailwindCSS • ASP.NET Core • PostgreSQL • Background Workers
+
+---
+
+# 🧰 Tech Stack
 
 ### Backend
 
--   ASP.NET Core
--   Node.js
--   REST APIs
--   PostgreSQL
--   C#
--   Java
+ASP.NET Core • Node.js • REST APIs • PostgreSQL • C# • Java
 
 ### Frontend
 
--   React
--   TailwindCSS
--   JavaScript
--   Angular
--   Bootstrap
+React • Angular • TailwindCSS • Bootstrap • JavaScript
 
 ### AI / LLM
 
--   Prompt Engineering
--   LLM Integration
--   Groq API
--   Azure AI
+Prompt Engineering • LLM Integration • Groq API • Azure AI
 
 ### Tools
 
--   Git & GitHub
--   VS Code
--   Postman
--   Visual Studio
+Git • GitHub • VS Code • Visual Studio • Postman
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kenn072799&theme=github-dark"/>
 </p>
 
-------------------------------------------------------------------------
+---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
--   System Design
--   AI Engineering
--   Scalable Backend Architecture
--   Cloud Deployment
+* System Design
+* AI Engineering
+* Scalable Backend Architecture
+* Cloud Deployment
 
-------------------------------------------------------------------------
+---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-LinkedIn: [kenneth-altes-041485147](https://www.linkedin.com/in/kenneth-altes-041485147/)
-Portfolio: [kenneth-altes.vercel.app](https://kenneth-altes.vercel.app/)
+🔗 LinkedIn
+https://www.linkedin.com/in/kenneth-altes-041485147/
 
-------------------------------------------------------------------------
+🌐 Portfolio
+https://kenneth-altes.vercel.app
 
-⭐ I enjoy building tools that **help developers work faster and
-smarter**.
+---
+
+⭐ I enjoy building tools that **help developers work faster and smarter**.
